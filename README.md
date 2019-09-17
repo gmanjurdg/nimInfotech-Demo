@@ -1,7 +1,4 @@
 
-## Firebase Setup
-
-Open `src/config/config.js` and add your firebase project configurations.
 
 ## Available Scripts
 
