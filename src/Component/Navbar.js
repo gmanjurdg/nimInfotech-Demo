@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Navbar extends Component {
     render() {
         return (
-            <div>
+            <div style= {{background: "gold"}}>
                 <h1>Conclusion</h1>
                 <p>One of these is that the computer is a very flexible and powerful tool, and it 
                     is a tool that is ours to control. Files and documents, especially those in open 

@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class Home extends Component {
     render() {
         return (
-            <div>
+            <div style= {{background: "yellow"}}>
             <h1>About Python</h1>
             <p> Python
             This may surprise you; I have kept python on number #2, in many of the surveys 
