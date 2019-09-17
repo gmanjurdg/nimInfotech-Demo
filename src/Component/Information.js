@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 class Information extends Component {
     render() {
         return (
-            <div>
+            <div style= {{background: "blue"}}>
+                <h1>This information about Python syntax</h1>
                 <p>What makes it so? Like Java, Python syntax is clear, intuitive and almost similar to
                    the English language. Python’s “object-based” subset is somewhere similar to JavaScript.
                    According to Stack Overflow, there is one section which says “To be adopted or migrated to
